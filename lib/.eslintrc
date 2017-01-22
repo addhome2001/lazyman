@@ -6,11 +6,12 @@
   "rules": {
     "no-var": "off",
     "func-names": ["error", "never"],
+    "prefer-template": "off",
     "prefer-arrow-callback": "off",
     "wrap-iife": ["error", "inside"],
-    "prefer-template": "off",
     "no-unused-expressions": ["error", { "allowShortCircuit": true }],
     "prefer-spread": "off",
-    "object-shorthand": "off"
+    "object-shorthand": "off",
+    "no-console": ["error", { "allow": ["log"] } ]
   }
 }

@@ -1,4 +1,4 @@
-const lazyMan = require('./libs');
+const lazyMan = require('./lib');
 
 /**
  *  Wait 3 second before introduction myself and eat.
