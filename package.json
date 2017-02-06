@@ -29,6 +29,6 @@
     "eslint-plugin-import": "2.2.0"
   },
   "dependencies": {
-    "nextable": "https://github.com/addhome2001/nextable"
+    "nextable": "^0.0.1"
   }
 }

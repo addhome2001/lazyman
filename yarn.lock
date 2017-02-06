@@ -2312,9 +2312,9 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
 
-"nextable@https://github.com/addhome2001/nextable":
+nextable:
   version "0.0.1"
-  resolved "https://github.com/addhome2001/nextable#cc0d315e4e00eaa3d4ed7e1b04a26ed73189167a"
+  resolved "https://registry.yarnpkg.com/nextable/-/nextable-0.0.1.tgz#ff5d3ba017b9f144fdfd77fec75f94872c88fe57"
   dependencies:
     ava "0.17.0"
     sinon "1.17.7"
